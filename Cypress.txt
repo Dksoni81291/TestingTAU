@@ -1,0 +1,23 @@
+Cypress Basics 
+
+ 
+
+Cypress is a next generation front-end testing tool for all the modern web applications.(react.js and vue.js based) 
+
+Cypress is a JavaScript based end to end testing framework. 
+
+Cypress can be used for  
+
+Integration tests 
+
+End to End tests 
+
+Unit tests 
+
+Cypress can test anything that runs in browser. 
+
+Cypress is built on Node.js and comes packaged as npm module. 
+
+Cypress uses JavaScript to write tests 
+
+ 
