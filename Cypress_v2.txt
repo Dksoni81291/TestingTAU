@@ -1,0 +1,21 @@
+Cypress test case written in Mocha framework style. 
+
+ 
+
+Example: 
+
+ 
+
+describe("First Test Suite", ()=>{ 
+
+it("This is sample Test case", ()=>{ 
+
+cy.visit("https://www.freshworks.com/") 
+
+cy.contains("Platform") 
+
+cy.contains("Platform").click() 
+
+}) 
+
+}) 
