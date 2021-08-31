@@ -20,4 +20,31 @@ Cypress is built on Node.js and comes packaged as npm module.
 
 Cypress uses JavaScript to write tests 
 
+==========
+Installation: 
+
  
+
+Node.js download.(Node.js 8 and above) 
+
+Set NODE_HOME path as System Environment variable 
+
+C:\Program Files\nodejs 
+
+Install VS code as IDE to write JavaScript tests. 
+
+Create a new project folder structure in your local system. 
+
+Open folder in VS code terminal. 
+
+Run "npm init" command- this will create package.json file. 
+
+Run "npm install cypress –dev"- this will install latest available version and version details stored inside the package.json in devDependencies stanza. 
+
+Post running two folder created. 
+
+Node_modules – Heart of Cypress. 
+
+Package-lock.json  
+
+Cypress is installed inside the ./node_modules directory. 
